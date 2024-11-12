@@ -1,0 +1,2 @@
+Para o funcionamento precisa do plugin connector do mysql "mysql-connector-j-9.0.0" ou outras versoes.
+O nome do banco precisa ser configurado de acordo com o banco que se quer salvar os dados, no caso o padrao esta como "Projetos"
